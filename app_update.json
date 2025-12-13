@@ -1,9 +1,10 @@
 {
-  "latest_version_name": "3.4",
-  "latest_version_code": 34,
+  "latest_version_name": "3.5",
+  "latest_version_code": 35,
   "min_version_code": 1,
-  "apk_url": "https://github.com/akengstrong/my_apk/releases/download/v3.4/my_apk_v3.4.apk",
+  "apk_url": "https://github.com/hydra-39/apk/releases/download/v3.5/my_apk_v3.5.apk",
   "apk_size": 0,
   "apk_sha256": "",
-  "notes": "Update aplikasi v3.4"
+  "notes": "Update aplikasi v3.5"
 }
+

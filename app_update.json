@@ -1,12 +1,13 @@
 {
-  "latest_version_name": "3.5",
-  "latest_version_code": 35,
+  "latest_version_name": "3.6",
+  "latest_version_code": 36,
   "min_version_code": 1,
   "apk_url": "https://drive.google.com/uc?export=download&id=1pH5wBcVfvRVPUSwgBpb_K1GjYtazAP1z",
   "apk_size": 0,
   "apk_sha256": "",
-  "notes": "Update aplikasi v3.5"
+  "notes": "Update aplikasi v3.6"
 }
+
 
 
 

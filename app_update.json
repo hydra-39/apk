@@ -1,12 +1,13 @@
 {
-  "latest_version_name": "3.9",
-  "latest_version_code": 39,
+  "latest_version_name": "4.1",
+  "latest_version_code": 41,
   "min_version_code": 1,
   "apk_url": "https://drive.google.com/uc?export=download&id=1pH5wBcVfvRVPUSwgBpb_K1GjYtazAP1z",
   "apk_size": 0,
   "apk_sha256": "",
-  "notes": "Update aplikasi v3.9"
+  "notes": "Update aplikasi v4.1"
 }
+
 
 
 
